@@ -1,0 +1,25 @@
+# Global
+.*.swp
+.DS_Store
+
+# PHPStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Netbeans
+nbproject/
+/nbproject/
+/nbproject/private/
+/nbproject/private/private.properties
+
+# VS Code
+.vscode/
+
+# Settings and Cache files
+.env
+storage/
+vendor/
+docs/api/
+composer.lock
+*.bak
