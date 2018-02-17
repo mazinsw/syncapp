@@ -23,3 +23,13 @@ vendor/
 docs/api/
 composer.lock
 *.bak
+
+# npm
+node_modules/
+package-lock.json
+
+# android configuration
+android/app/build/
+android/build/
+android/.gradle/
+android/.project
